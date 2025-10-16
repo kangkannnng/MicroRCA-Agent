@@ -69,6 +69,7 @@ coverage.xml
 /sample
 /unpacked_data
 /data
+/test_data
 /analysis
 /phaseone
 /phasetwo
